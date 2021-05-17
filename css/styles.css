@@ -1,0 +1,63 @@
+.container {
+  height: 100%;
+}
+#header-nav {
+    background-color: grey;
+    border-radius: 0;
+    border-color: black;
+}
+.navbar-header{
+  box-sizing: border-box;
+}
+.navbar-brand {
+  color:black;
+  padding: 5px;
+}
+.navbar-brand a{
+  text-decoration: none;
+}
+.navbar-brand h1{
+  color: #000;
+  margin: 0px;
+}
+.navbar-header{
+  height: 100%;
+}
+.menu{
+  color: black;
+}
+.menu p{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+section {
+  background-color: grey;
+  color: black;
+  margin: 20px;
+  padding: 10px;
+}
+section h3{
+  text-align: center;
+  font-weight: 600;
+  position: relative;
+  margin-bottom: 25px;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #000;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+#nav-list a {
+  color: black;
+  text-align: center;
+  background-color: grey;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+  border-color: black;
+}
+.navbar-nav{
+  margin-top: 0px;
+}
